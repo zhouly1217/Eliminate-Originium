@@ -1,0 +1,8 @@
+﻿<RCC>
+    <qresource prefix="/images">
+		<file>nankai.png</file>
+		<file>Hitbar.png</file>
+		<file>Brick.png</file>
+		<file>background.png</file>
+    </qresource>
+</RCC>
